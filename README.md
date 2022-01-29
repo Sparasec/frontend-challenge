@@ -3,7 +3,7 @@
 ## Challenge Description
 
 Implement [ Github's trending ](https://github.com/trending) page using the
-[ Github-Trending-API ](https://github.com/NiklasTiede/Github-Trending-API).
+[ Github-Trending-API ](https://github.com/agam778/github-trending-api).
 Make sure all Javascript code is written in TypeScript and covered by tests.
 
 ## Required Features:
